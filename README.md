@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ali Arslan
-I'm a React Native developer passionate about building modern apps and exploring open-source projects.
+I'm a React Native developer.
 
 
 📫 Contact: aliarslan2681@gmail.com  
